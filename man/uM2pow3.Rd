@@ -23,7 +23,7 @@ uM2pow3(m2, m3, m4, m6, n)
 \item{n}{sample size.}
 }
 \value{
-Unbiased estimate of cubed variance  central moment
+Unbiased estimate of cubed second central moment
   \eqn{\mu_2^3}{\mu[2]^3}, where \eqn{\mu_2}{\mu[2]} is a variance.
 }
 \description{
